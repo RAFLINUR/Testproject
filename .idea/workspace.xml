@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1033eb5e-177a-4542-95bc-24feca75008d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/cobacoba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cobacoba.java" afterDir="false" />
-    </list>
+    <list default="true" id="1033eb5e-177a-4542-95bc-24feca75008d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,5 +46,16 @@
       <updated>1698758019745</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
